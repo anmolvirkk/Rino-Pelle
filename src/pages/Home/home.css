@@ -1,0 +1,51 @@
+.heroTitle {
+  font-size: 6rem;
+  text-align: center;
+}
+.heroTitle p {
+  font-family: "Newsreader";
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.heroTitle span {
+  font-family: "Tangerine";
+  text-transform: lowercase;
+}
+.heroSlider img {
+  width: 100%;
+  object-fit: cover;
+}
+.insta h2 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+}
+.insta h1 {
+  font-size: 6vw;
+  font-family: "Newsreader";
+  font-weight: 300;
+}
+.insta h1 span {
+  font-family: "Tangerine";
+}
+.insta p {
+  font-size: 1rem;
+  line-height: 2.1;
+}
+.insta button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  outline: 0;
+  background-color: #cb9274;
+  color: white;
+  padding: 0 3rem 0 3rem;
+  text-transform: uppercase;
+  margin-top: 3rem;
+}
+.insta button p {
+  font-weight: 600;
+  letter-spacing: 0.2rem;
+  font-size: 0.75rem;
+}

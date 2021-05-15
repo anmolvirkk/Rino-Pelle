@@ -1,0 +1,75 @@
+.help {
+  padding-bottom: 15vh;
+  padding-top: 15vh;
+}
+.help h1 {
+  font-family: "Newsreader";
+  font-size: 4vw;
+  font-weight: 300;
+  margin: 0;
+}
+.help h1 span {
+  font-family: "Tangerine";
+}
+.help h2 {
+  width: 100%;
+  text-align: left;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+}
+.help p {
+  font-size: 1rem;
+  line-height: 2.1;
+}
+.help button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  outline: 0;
+  color: #cb9274;
+  text-transform: uppercase;
+  margin-top: 3rem;
+  background: transparent;
+}
+.help button p {
+  font-weight: 600;
+  letter-spacing: 0.2rem;
+  font-size: 0.75rem;
+  padding-bottom: 1rem;
+  margin-left: 1rem;
+}
+.footer {
+  background-color: #1f1f1f;
+  color: white;
+  padding-top: 15vh;
+}
+.footer img {
+  filter: invert(91.5%);
+  height: 6rem;
+}
+.footer h2 {
+  width: 100%;
+  text-align: left;
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+.footer ul {
+  list-style: none;
+  padding: 0;
+}
+.footer li {
+  margin-top: 1rem;
+  opacity: 0.3;
+}
+.copyright {
+  background-color: #1f1f1f;
+  color: white;
+  padding-top: 12vh;
+  padding-bottom: 5vh;
+}
+.copyright p {
+  font-family: 0.75rem;
+  opacity: 0.2;
+}

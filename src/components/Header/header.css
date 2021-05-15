@@ -1,0 +1,17 @@
+header {
+  padding: 2rem 0 2rem 0;
+}
+header ul {
+  display: flex;
+  list-style: none;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+header h1 {
+  font-family: "Newsreader";
+  font-weight: 300;
+}
+header h1 span {
+  font-family: "Tangerine";
+}

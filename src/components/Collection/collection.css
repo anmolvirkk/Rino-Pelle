@@ -1,0 +1,43 @@
+.collectionSide {
+  height: 90vh;
+  margin-top: 25vh;
+}
+.collectionSide img {
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+}
+.collectionSide h2 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+}
+.collectionSide h1 {
+  font-size: 6vw;
+  font-family: "Newsreader";
+  font-weight: 300;
+}
+.collectionSide h1::first-line {
+  font-family: "Tangerine";
+}
+.collectionSide p {
+  font-size: 1rem;
+  line-height: 2.1;
+}
+.collectionSide button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  outline: 0;
+  background-color: #cb9274;
+  color: white;
+  padding: 0 3rem 0 3rem;
+  text-transform: uppercase;
+  margin-top: 3rem;
+}
+.collectionSide button p {
+  font-weight: 600;
+  letter-spacing: 0.2rem;
+  font-size: 0.75rem;
+}

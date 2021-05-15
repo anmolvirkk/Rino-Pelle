@@ -1,0 +1,33 @@
+.browse {
+  margin-top: 25vh;
+  position: relative;
+  width: 100%;
+}
+.browse button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #cb9274;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  margin-top: 3rem;
+}
+.browse button p {
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.15rem;
+}
+.browse h2 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+  margin-bottom: 3rem;
+}
+.browse h1 {
+  font-size: 4.5vw;
+  font-family: "Newsreader";
+  font-weight: 300;
+  margin: 0;
+  line-height: 1.3;
+}
