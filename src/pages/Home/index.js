@@ -18,7 +18,7 @@ export default class Home extends Component {
             <Header />
             <Grid container direction="column" justify="center" alignItems="center" style={{width: '100%'}}>
                 <Grid item>
-                    <img src="/logo.png" style={{height: '5rem'}} alt="logo" />
+                    <img src="/logo.PNG" style={{height: '5rem'}} alt="logo" />
                 </Grid>
                 <Grid item style={{fontWeight: 600, textTransform: 'uppercase', letterSpacing: 2, fontSize: '0.75rem', marginTop: '3rem'}}>
                     Detailed Craftsmanship

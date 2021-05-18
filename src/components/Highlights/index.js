@@ -25,14 +25,14 @@ export default class Highlights extends Component {
                                 <h3>Toonya Long Trench Coat</h3>
                             </Grid>
                             <Grid item xs={4}>
-                                <img alt="coats" src = "https://rino-pelle.exoape.com/wp-content/uploads/2019/12/toomya-long-trench-coat-side-front-800x1067.webp" />
-                                <h4>Coats</h4>
-                                <h3>Toonya Long Trench Coat</h3>
+                                <img alt="coats" src = "https://rino-pelle.exoape.com/wp-content/uploads/2020/02/zazi-long-printed-dress-side-front-800x1067.webp" />
+                                <h4>Dresses</h4>
+                                <h3>Zazi Long Printed Dress</h3>
                             </Grid>
                             <Grid item xs={3}>
-                                <img style={{height: '70%'}} alt="coats" src = "https://rino-pelle.exoape.com/wp-content/uploads/2019/12/toomya-long-trench-coat-side-front-800x1067.webp" />
-                                <h4>Coats</h4>
-                                <h3>Toonya Long Trench Coat</h3>
+                                <img style={{height: '70%'}} alt="coats" src = "https://rino-pelle.exoape.com/wp-content/uploads/2020/01/welly-vneck-top-side-front-800x1067.webp" />
+                                <h4>Tops</h4>
+                                <h3>Welly Vneck Top</h3>
                             </Grid>
                         </Grid>
                     </Grid>
